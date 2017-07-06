@@ -1,12 +1,14 @@
 # gfs-viewport
-针对不同dpr调整viewport的scale和基础文字大小。
+针对不同dpr调整viewport的scale以及基础文字大小(font-size)。
 
 ## Usage
 
 ```
+<head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <script src=""></script>
+    <script src="https://cdn.rawgit.com/future-team/gfs-viewport/master/index.js"></script>
+    ...
+</head>
 ```
 
 ## Repair
