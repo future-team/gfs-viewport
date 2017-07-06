@@ -1,0 +1,14 @@
+{
+  "name": "gfs-viewport",
+  "version": "0.1.0",
+  "description": "viewport scale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "viewport"
+  ],
+  "author": "chenaibing",
+  "license": "ISC"
+}
