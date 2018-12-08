@@ -6,7 +6,7 @@
 ```
 <head>
     <meta charset="UTF-8">
-    <script src="https://cdn.rawgit.com/future-team/gfs-viewport/master/gfs-viewport.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/future-team/gfs-viewport/gfs-viewport.js"></script>
     ...
 </head>
 ```
